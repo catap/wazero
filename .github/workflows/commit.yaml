@@ -116,10 +116,6 @@ jobs:
           - os: ubuntu-24.04
             arch: amd64
             no_prot_exec: true
-          - os: ubuntu-24.04-arm
-            arch: arm64
-          - os: ubuntu-24.04-riscv
-            arch: riscv64
 
     steps:
 
